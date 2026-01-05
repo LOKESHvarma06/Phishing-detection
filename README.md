@@ -15,10 +15,3 @@ This project is a real-time cybersecurity tool designed to detect phishing websi
 
 ---
 
-## 🛠️ Installation & Setup
-
-### 1. Clone the Project
-Open your terminal (Command Prompt or Git Bash) and run the following commands:
-```bash
-git clone [https://github.com/LOKESHvarma06/Phishing-detection.git](https://github.com/LOKESHvarma06/Phishing-detection.git)
-cd Phishing-detection
