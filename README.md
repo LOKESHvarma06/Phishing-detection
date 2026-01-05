@@ -2,7 +2,7 @@
 
 This project is a real-time cybersecurity tool designed to detect phishing websites using **Machine Learning**. It features a **Flask-based backend** for URL analysis and a **Chrome Extension frontend** to provide an immediate safety verdict while browsing.
 
-[Image of a sequence diagram showing a browser extension calling a Flask API for phishing prediction]
+
 
 ---
 
